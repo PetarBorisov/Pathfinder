@@ -39,7 +39,6 @@ public class AppConfig {
     private final CategoryService categoryService;
     private final RoleService roleService;
 
-
     @Bean
     public ModelMapper modelMapper() {
 
